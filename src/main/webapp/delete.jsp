@@ -14,5 +14,4 @@
 <% String result = (String)request.getAttribute("result");%>
 <h2><%=result%></h2>
 </body>
-<a href="/batch_jun_j2ee_war/"></a>
 </html>
